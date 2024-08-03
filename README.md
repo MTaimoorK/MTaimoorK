@@ -7,3 +7,8 @@
     <a href="https://www.sololearn.com/profile/24510843" target="_blank"><img src="https://img.icons8.com/color/48/000000/sololearn.png" alt="SoloLearn" /></a>
     <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" /></a>
   </p>
+
+  <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things;AI+Chatbot+Developer;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+    </p>
