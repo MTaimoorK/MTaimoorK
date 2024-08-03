@@ -71,9 +71,21 @@
 
 ## 🎯 My Goals
 
-- 🌟 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Contribute+to+open-source+AI%2FML+projects" alt="Contribute to open-source AI/ML projects" />
-- 🤝 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Collaborate+on+impactful+data+science+projects" alt="Collaborate on impactful data science projects" />
-- 📚 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Continuously+learn+and+apply+new+AI+techniques" alt="Continuously learn and apply new AI techniques" />
+- 🌟 <span class="animated-text">Contribute to open-source AI/ML projects</span>
+- 🤝 <span class="animated-text">Collaborate on impactful data science projects</span>
+- 📚 <span class="animated-text">Continuously learn and apply new AI techniques</span>
+
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+.animated-text {
+  display: inline-block;
+  animation: fadeInOut 2s ease-in-out infinite;
+}
+</style>
 
 ## 💡 Fun Facts
 
