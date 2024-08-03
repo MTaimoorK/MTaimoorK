@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Taimoor Khan
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=39FF14¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Data+Scientist;AI%2FML+Enthusiast;Python+Developer;Data+Analyst;Machine+Learning+Engineer;Deep+Learning+Practitioner;Turning+data+into+insights;Passionate+about+AI;Always+learning;Let's+collaborate!" alt="Typing SVG" />
 </div>
 
 # 🧑‍🔬 About Me
