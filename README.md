@@ -15,26 +15,58 @@
   <table>
     <tr>
       <td align="center"><strong>👨‍💻 Data Wizard</strong></td>
-      <td>Muhammad Taimoor Khan</td>
+      <td>
+        <div class="animated-text">
+          <span>Muhammad Taimoor Khan</span>
+        </div>
+      </td>
     </tr>
     <tr>
       <td align="center"><strong>🚀 Mission</strong></td>
-      <td>Transforming Data into Actionable Insights</td>
+      <td>
+        <div class="animated-text">
+          <span>Transforming Data into Actionable Insights</span>
+        </div>
+      </td>
     </tr>
     <tr>
       <td align="center"><strong>🎓 Knowledge Forge</strong></td>
-      <td>Bachelor's in Computer Science from Mehran UET</td>
+      <td>
+        <div class="animated-text">
+          <span>[Your Degree] in [Your Major] from [Your University]</span>
+        </div>
+      </td>
     </tr>
     <tr>
       <td align="center"><strong>📚 Current Quest</strong></td>
-      <td>Unraveling the Mysteries of Advanced Deep Learning and Generative AI</td>
+      <td>
+        <div class="animated-text">
+          <span>Unraveling the Mysteries of Advanced Deep Learning and Generative AI</span>
+        </div>
+      </td>
     </tr>
     <tr>
       <td align="center"><strong>💡 Passion Fuel</strong></td>
-      <td>Pushing the Boundaries of AI/ML, Crafting Data-Driven Solutions, Contributing to the Open-Source Galaxy</td>
+      <td>
+        <div class="animated-text">
+          <span>Pushing the Boundaries of AI/ML, Crafting Data-Driven Solutions, Contributing to the Open-Source Galaxy</span>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
+
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+.animated-text span {
+  display: inline-block;
+  animation: fadeInOut 4s infinite;
+}
+</style>
 
 <div align="center">
   <i>🌟 Greetings, fellow data explorer! Ready to embark on a journey of innovation and discovery? Let's craft the future with data! 🌟</i>
