@@ -47,26 +47,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=306998&width=435&lines=Programming+Languages" alt="Typing SVG" />
 
 <img src="https://skillicons.dev/icons?i=python,r,postgresql,matlab" alt="Programming Languages" />
-![Julia](https://img.shields.io/badge/-Julia-7F2B82?style=for-the-badge&logo=julia&logoColor=white)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F00&width=435&lines=Data+Science+%26+Machine+Learning" alt="Typing SVG" />
 
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch" alt="Data Science & Machine Learning" />
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CC99?style=for-the-badge&logo=hadoop&logoColor=white)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DB7ED&width=435&lines=Tools+%26+Platforms" alt="Typing SVG" />
 
 <img src="https://skillicons.dev/icons?i=jupyter,aws,azure,gcp,docker,git" alt="Tools & Platforms" />
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A3E0&width=435&lines=Visualization" alt="Typing SVG" />
 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-5D4F6F?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3B0A45?style=for-the-badge&logo=plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-0099B0?style=for-the-badge&logo=ggplot2&logoColor=white)
-![Shiny](https://img.shields.io/badge/-Shiny-6AB6F0?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-00A3E0?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C300?style=for-the-badge&logo=powerbi&logoColor=white)
 
