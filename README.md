@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=306998&width=435&lines=Programming+Languages" alt="Typing SVG" />
+<h2 style="color: #306998;">Programming Languages</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F00&width=435&lines=Data+Science+%26+Machine+Learning" alt="Typing SVG" />
+<h2 style="color: #FF6F00;">Data Science & Machine Learning</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DB7ED&width=435&lines=Tools+%26+Platforms" alt="Typing SVG" />
+<h2 style="color: #0DB7ED;">Tools & Platforms</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A3E0&width=435&lines=Visualization" alt="Typing SVG" />
+<h2 style="color: #00A3E0;">Visualization</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
