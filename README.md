@@ -90,36 +90,6 @@
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   </p>
 
-  <h3 >🌟 Let's Connect and Create Magic Together! 🚀</h3>
-  <p align="center">
-    <i>Ready to embark on an exciting coding adventure? Let's chat about tech and build something extraordinary! ✨</i>
-  </p>
-
-  <h3 >🔥 Full Stack Maestro | MERN Virtuoso | Tech Trailblazer 🔥</h3>
-
-  <p >
-    Welcome to my digital wonderland! I'm Muhammad Hunain, a passionate full-stack sorcerer conjuring seamless web experiences. My code journey is fueled by an insatiable curiosity and an unwavering commitment to pushing the boundaries of innovation.
-
-  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow" x1="0" x2="100%" y1="0" y2="0">
-        <stop stop-color="#FF0000" offset="0%"/>
-        <stop stop-color="#FF7F00" offset="16.67%"/>
-        <stop stop-color="#FFFF00" offset="33.33%"/>
-        <stop stop-color="#00FF00" offset="50%"/>
-        <stop stop-color="#0000FF" offset="66.67%"/>
-        <stop stop-color="#8B00FF" offset="83.33%"/>
-        <stop stop-color="#FF0000" offset="100%"/>
-      </linearGradient>
-    </defs>
-    <path id="curve" fill="transparent" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" />
-    <text width="500">
-      <textPath alignment-baseline="top" xlink:href="#curve" fill="url(#rainbow)">
-        Full stack wizard • MERN Stack virtuoso • Project Management guru • AI chatbot development enthusiast • AI prompt engineering aficionado • and so much more!
-      </textPath>
-    </text>
-  </svg></p>
-
   <table>
     <tr>
       <td>🔭 Currently crafting</td>
@@ -143,6 +113,7 @@
     </tr>
   </table>
 
+  <h3 >🌟 Let's Connect and Create Magic Together! 🚀</h3>
   <p align="center">
-    <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
+    <i>Ready to embark on an exciting coding adventure? Let's chat about tech and build something extraordinary! ✨</i>
   </p>
