@@ -8,8 +8,7 @@
     <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" /></a>
   </p>
 
-  <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
+ <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
     <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
     </p>
-
