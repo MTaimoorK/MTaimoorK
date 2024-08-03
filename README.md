@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 ## 🛠️ Skills & Tools
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-000?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=postgresql)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks)
-![Julia](https://img.shields.io/badge/-Julia-000?style=flat-square&logo=julia)
+<img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-R-000?style=flat-square&logo=r&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=postgresql&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Julia-000?style=flat-square&logo=julia&logoColor=white&size=24" height="24">
 
 ### Data Science & Machine Learning:
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization
@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 - **Tools & Platforms:** Jupyter Notebook, Google Colab, AWS, Azure, GCP, Docker, Git
 
 ### Visualization:
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=flat-square&logo=seaborn)
-![Plotly](https://img.shields.io/badge/-Plotly-000?style=flat-square&logo=plotly)
-![ggplot2](https://img.shields.io/badge/-ggplot2-000?style=flat-square&logo=ggplot2)
-![Shiny](https://img.shields.io/badge/-Shiny-000?style=flat-square&logo=rstudio)
-![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=tableau)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi)
+<img src="https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Seaborn-000?style=flat-square&logo=seaborn&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Plotly-000?style=flat-square&logo=plotly&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-ggplot2-000?style=flat-square&logo=ggplot2&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Shiny-000?style=flat-square&logo=rstudio&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=tableau&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi&logoColor=white&size=24" height="24">
 
 ## 📈 GitHub Stats
 
@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter)](https://twitter.com/YourTwitterHandle)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=medium)](https://medium.com/@yourprofile)
+[<img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&size=24" height="24">](https://www.linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=white&size=24" height="24">](https://twitter.com/YourTwitterHandle)
+[<img src="https://img.shields.io/badge/-Medium-000?style=flat-square&logo=medium&logoColor=white&size=24" height="24">](https://medium.com/@yourprofile)
 
 ## 📚 Latest Blog Posts
 
