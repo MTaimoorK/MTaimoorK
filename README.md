@@ -120,13 +120,28 @@
     </text>
   </svg></p>
 
-  <p >
-    🔭 Currently crafting: Next-level React and Node.js masterpieces<br>
-    🌱 Exploring: Cutting-edge state management sorcery and serverless realms<br>
-    👯 Seeking fellow code adventurers for: Epic MERN stack quests in the open-source universe<br>
-    💬 Unlock my knowledge vault on: JavaScript, React, Node.js, or any web development enigma!<br>
-    ⚡ Fun fact: When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest
-  </p>
+    <table>
+    <tr>
+      <td>🔭 Currently crafting:</td>
+      <td>Next-level React and Node.js masterpieces</td>
+    </tr>
+    <tr>
+      <td>🌱 Exploring:</td>
+      <td>Cutting-edge state management sorcery and serverless realms</td>
+    </tr>
+    <tr>
+      <td>👯 Seeking fellow code adventurers for:</td>
+      <td>Epic MERN stack quests in the open-source universe</td>
+    </tr>
+    <tr>
+      <td>💬 Unlock my knowledge vault on:</td>
+      <td>JavaScript, React, Node.js, or any web development enigma!</td>
+    </tr>
+    <tr>
+      <td>⚡ Fun fact:</td>
+      <td>When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest</td>
+    </tr>
+  </table>
 
   <p >
     <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
