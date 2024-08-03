@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=24&duration=1500&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!;DATA+SCIENTIST;AI%2FML+ENTHUSIAST;PYTHON+DEVELOPER;DATA+ANALYST;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+PRACTITIONER;TURNING+DATA+INTO+INSIGHTS;PASSIONATE+ABOUT+AI;ALWAYS+LEARNING;LET'S+COLLABORATE!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=24&duration=1500&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!;DATA+SCIENTIST;AI%2FML+ENTHUSIAST;PYTHON+DEVELOPER;DATA+ANALYST;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+PRACTITIONER;TURNING+DATA+INTO+INSIGHTS;PASSIONATE+ABOUT+AI;ALWAYS+LEARNING;LET'S+COLLABORATE!&multiline=true&repeat=true" alt="Typing SVG" />
 </div>
 
 # 🧑‍🔬 About Me
