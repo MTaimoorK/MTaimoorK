@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
     Hi there, I'm Muhammad Taimoor Khan
