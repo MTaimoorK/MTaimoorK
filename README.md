@@ -1,7 +1,7 @@
 <div>
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
-    Greetings, <i>I'm Muhammad Taimoor Khan</i>
+    Greetings, I'm <i> Muhammad Taimoor Khan</i>
   </h1>
 </div>
 
