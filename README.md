@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1 style="font-family: 'Montserrat', sans-serif; font-size: 3em; background: linear-gradient(to right, #30CFD0, #330867); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
     Greetings, I'm Muhammad Taimoor Khan
