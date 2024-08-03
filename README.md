@@ -122,23 +122,23 @@
 
   <table>
     <tr>
-      <td>🔭 Currently crafting:</td>
+      <td>🔭 Currently crafting</td>
       <td>Next-level React and Node.js masterpieces</td>
     </tr>
     <tr>
-      <td>🌱 Exploring:</td>
+      <td>🌱 Exploring</td>
       <td>Cutting-edge state management sorcery and serverless realms</td>
     </tr>
     <tr>
-      <td>👯 Seeking fellow code adventurers for:</td>
+      <td>👯 Seeking fellow code adventurers for</td>
       <td>Epic MERN stack quests in the open-source universe</td>
     </tr>
     <tr>
-      <td>💬 Unlock my knowledge vault on:</td>
+      <td>💬 Unlock my knowledge vault on</td>
       <td>JavaScript, React, Node.js, or any web development enigma!</td>
     </tr>
     <tr>
-      <td>⚡ Fun fact:</td>
+      <td>⚡ Fun fact</td>
       <td>When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest</td>
     </tr>
   </table>
