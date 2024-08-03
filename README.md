@@ -3,9 +3,6 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
     Greetings, I'm Muhammad Taimoor Khan
   </h1>
-  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; font-style: italic; color: #4a4a4a;">
-    Data Scientist | AI Enthusiast | Code Alchemist
-  </p>
 </div>
 
 <div align="center">
