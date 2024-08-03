@@ -75,12 +75,6 @@
 - 🤝 <span class="animated-text">Collaborate on impactful data science projects</span>
 - 📚 <span class="animated-text">Continuously learn and apply new AI techniques</span>
 
-<style>
-@keyframes fadeInOut {
-  0%, 100% { opacity: 0; }
-  50% { opacity: 1; }
-}
-
 .animated-text {
   display: inline-block;
   animation: fadeInOut 2s ease-in-out infinite;
