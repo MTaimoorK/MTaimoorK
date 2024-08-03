@@ -120,7 +120,7 @@
     </text>
   </svg></p>
 
-    <table>
+  <table>
     <tr>
       <td>🔭 Currently crafting:</td>
       <td>Next-level React and Node.js masterpieces</td>
