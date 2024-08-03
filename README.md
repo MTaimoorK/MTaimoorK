@@ -1,8 +1,11 @@
-<div>
-  <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
-    Hi there, I'm Muhammad Taimoor Khan
+<div align="center">
+  <h1 style="font-family: 'Montserrat', sans-serif; font-size: 3em; background: linear-gradient(to right, #30CFD0, #330867); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
+    Greetings, I'm Muhammad Taimoor Khan
   </h1>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; font-style: italic; color: #4a4a4a;">
+    Data Scientist | AI Enthusiast | Code Alchemist
+  </p>
 </div>
 
 <div align="center">
