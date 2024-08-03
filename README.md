@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm ___Muhammad Taimoor___ 👋
 
 Welcome to my GitHub profile! I am passionate about leveraging data to drive insights and build intelligent systems. Here's a bit about me and what I do:
 
 ## 🚀 About Me
 
 - 💼 **Profession:** Data Scientist | AI/ML Enthusiast
-- 🎓 **Education:** [Your Degree] in [Your Major] from [Your University]
+- 🎓 **Education:** Bachelors in Computer Science from Mehran UET
 - 🌱 **Currently Learning:** Advanced Deep Learning techniques and Generative AI
 - 👯 **Looking to collaborate on:** Data Science projects, AI/ML research, and open-source contributions
 - 💬 **Ask me about:** Data Analysis, Machine Learning, Deep Learning, Python, R, and anything related to AI
@@ -37,21 +37,13 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MTaimoorK&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Data Science](https://yourblog.com/how-to-get-started-with-data-science)
-- [Exploring Neural Networks with TensorFlow](https://yourblog.com/exploring-neural-networks-with-tensorflow)
-- [Data Visualization Best Practices](https://yourblog.com/data-visualization-best-practices)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎯 My Goals
 
