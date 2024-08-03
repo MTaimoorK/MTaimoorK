@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 ## 🛠️ Skills & Tools
 
 ### Programming Languages:
-<img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-R-000?style=flat-square&logo=r&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=postgresql&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Julia-000?style=flat-square&logo=julia&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-R-000?style=flat-square&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+<img src="https://img.shields.io/badge/-Julia-000?style=flat-square&logo=julia&logoColor=white" alt="Julia">
 
 ### Data Science & Machine Learning:
 - **Data Analysis:**
@@ -41,13 +41,13 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
   <img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white&size=24" height="24">
 
 ### Visualization:
-<img src="https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Seaborn-000?style=flat-square&logo=seaborn&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Plotly-000?style=flat-square&logo=plotly&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-ggplot2-000?style=flat-square&logo=ggplot2&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Shiny-000?style=flat-square&logo=rstudio&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=tableau&logoColor=white&size=24" height="24">
-<img src="https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi&logoColor=white&size=24" height="24">
+<img src="https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/-Seaborn-000?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/-Plotly-000?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/-ggplot2-000?style=flat-square&logo=ggplot2&logoColor=white" alt="ggplot2">
+<img src="https://img.shields.io/badge/-Shiny-000?style=flat-square&logo=rstudio&logoColor=white" alt="Shiny">
+<img src="https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
 
 ## 📈 GitHub Stats
 
