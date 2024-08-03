@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Muhammad Taimoor Khan 👋
 
 Welcome to my GitHub profile! I am passionate about leveraging data to drive insights and build intelligent systems. Here's a bit about me and what I do:
 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
 - **Big Data Technologies:** Apache Spark, Hadoop
 - **Tools & Platforms:** Jupyter Notebook, Google Colab, AWS, Azure, GCP, Docker, Git
+- **Deep Learning Frameworks:** TensorFlow, PyTorch
 
 ### Visualization:
 <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib&logoColor=white&size=24" height="24">
