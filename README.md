@@ -10,6 +10,6 @@
 
   <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
     <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
     </p>
 
