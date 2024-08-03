@@ -143,6 +143,6 @@
     </tr>
   </table>
 
-  <p >
+  <p align="center">
     <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
   </p>
