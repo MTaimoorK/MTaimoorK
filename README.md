@@ -1,81 +1,105 @@
-# Hi there, I'm Muhammad Taimoor Khan 👋
+# 👋 Hi there, I'm Muhammad Taimoor Khan
 
-Welcome to my GitHub profile! I am passionate about leveraging data to drive insights and build intelligent systems. Here's a bit about me and what I do:
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-- 💼 **Profession:** Data Scientist | AI/ML Enthusiast
-- 🎓 **Education:** [Your Degree] in [Your Major] from [Your University]
-- 🌱 **Currently Learning:** Advanced Deep Learning techniques and Generative AI
-- 👯 **Looking to collaborate on:** Data Science projects, AI/ML research, and open-source contributions
-- 💬 **Ask me about:** Data Analysis, Machine Learning, Deep Learning, Python, R, and anything related to AI
+
+class DataScientist:
+  def __init__(self):
+      self.name = "Muhammad Taimoor Khan"
+      self.role = "Data Scientist | AI/ML Enthusiast"
+      self.education = "[Your Degree] in [Your Major] from [Your University]"
+      self.learning = ["Advanced Deep Learning", "Generative AI"]
+      self.interests = ["Data Science", "AI/ML Research", "Open-source"]
+    
+  def say_hi(self):
+      print("Thanks for dropping by! Let's collaborate and innovate with data!")
+
+me = DataScientist()
+me.say_hi()
+
 
 ## 🛠️ Skills & Tools
 
-### Programming Languages:
-<p>
-  <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-MATLAB-E36C0B?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/-Julia-7F2B82?style=flat-square&logo=julia&logoColor=white" alt="Julia">
-</p>
+<div align="center">
 
-### Data Science & Machine Learning:
-<p>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/-Hadoop-66CC99?style=flat-square&logo=hadoop&logoColor=white" alt="Hadoop">
-  <img src="https://img.shields.io/badge/-Jupyter-F7E14D?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/-Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-E36C0B?style=for-the-badge&logo=mathworks&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-7F2B82?style=for-the-badge&logo=julia&logoColor=white)
 
-### Visualization:
-<p>
-  <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/-Seaborn-5D4F6F?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/-Plotly-3B0A45?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/-ggplot2-0099B0?style=flat-square&logo=ggplot2&logoColor=white" alt="ggplot2">
-  <img src="https://img.shields.io/badge/-Shiny-6AB6F0?style=flat-square&logo=rstudio&logoColor=white" alt="Shiny">
-  <img src="https://img.shields.io/badge/-Tableau-00A3E0?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C300?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
-</p>
+### 🧠 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CC99?style=for-the-badge&logo=hadoop&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5D4F6F?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3B0A45?style=for-the-badge&logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-0099B0?style=for-the-badge&logo=ggplot2&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-6AB6F0?style=for-the-badge&logo=rstudio&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-00A3E0?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C300?style=for-the-badge&logo=powerbi&logoColor=white)
+
+</div>
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MTaimoorK&show_icons=true&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MTaimoorK&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</div>
 
 ## 🌐 Connect with Me
 
-<p>
-  [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/yourprofile)
-  [<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">](https://twitter.com/YourTwitterHandle)
-  [<img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=medium&logoColor=white" alt="Medium">](https://medium.com/@yourprofile)
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+
+</div>
 
 ## 🎯 My Goals
 
-- Contribute to open-source AI/ML projects
-- Collaborate with like-minded individuals and organizations on impactful data science projects
-- Continuously learn and apply new techniques in AI and data analysis
+- 🌟 Contribute to open-source AI/ML projects
+- 🤝 Collaborate on impactful data science projects
+- 📚 Continuously learn and apply new AI techniques
 
 ## 💡 Fun Facts
 
-- I enjoy solving complex problems with data
-- A big fan of sci-fi movies and books
-- Love experimenting with new technologies and frameworks
+- 🧩 I enjoy solving complex problems with data
+- 🎬 Big fan of sci-fi movies and books
+- 🔬 Love experimenting with new technologies
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about data and AI.
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ---
 
-_**“Data is a precious thing and will last longer than the systems themselves.”** – Tim Berners-Lee_
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+<div align="center">
+<i>"Data is a precious thing and will last longer than the systems themselves."</i> – Tim Berners-Lee
+</div>
