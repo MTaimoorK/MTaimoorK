@@ -4,21 +4,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+# 🧑‍🔬 Data Scientist Profile
 
-class DataScientist:
-    def __init__(self):
-        self.name = "Muhammad Taimoor Khan"
-        self.role = "Data Scientist | AI/ML Enthusiast"
-        self.education = "[Your Degree] in [Your Major] from [Your University]"
-        self.learning = ["Advanced Deep Learning", "Generative AI"]
-        self.interests = ["Data Science", "AI/ML Research", "Open-source"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's collaborate and innovate with data!")
+name = "Muhammad Taimoor Khan"
+role = "Data Scientist | AI/ML Enthusiast"
+education = "[Your Degree] in [Your Major] from [Your University]"
+learning = ["Advanced Deep Learning", "Generative AI"]
+interests = ["Data Science", "AI/ML Research", "Open-source"]
 
-me = DataScientist()
-me.say_hi()
+# 👋 Greeting Function
+def say_hi():
+    print(f"👋 Hi, I'm {name}!")
+    print(f"🚀 I'm a {role}")
+    print(f"🎓 Education: {education}")
+    print(f"📚 Currently learning: {', '.join(learning)}")
+    print(f"💡 Interests: {', '.join(interests)}")
+    print("\n✨ Thanks for dropping by! Let's collaborate and innovate with data! ✨")
+
+# 🌟 Display Profile
+say_hi()
 
 ## 🛠️ Skills & Tools
 
