@@ -58,9 +58,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A3E0&width=435&lines=Visualization" alt="Typing SVG" />
 
-![Tableau](https://img.shields.io/badge/-Tableau-00A3E0?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C300?style=for-the-badge&logo=powerbi&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=tableau,powerbi" alt="Visualization" />
 </div>
 
 ## 📈 GitHub Stats
