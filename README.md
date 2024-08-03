@@ -87,5 +87,5 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=for-the-badge&color=00bfff&label=Profile+Views&logo=eye" alt="Profile views" />
 </div>
