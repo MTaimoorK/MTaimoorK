@@ -63,9 +63,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&size=100)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&size=100)](https://twitter.com/YourTwitterHandle)
-[![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=medium&logoColor=white&size=100)](https://medium.com/@yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
 </div>
 
