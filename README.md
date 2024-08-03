@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=32&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=600&height=70&lines=👋+Hi+there,+I'm+Muhammad+Taimoor+Khan" alt="Animated Greeting" />
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+    Hi there, I'm Muhammad Taimoor Khan
+  </h1>
 </div>
 
 <div align="center">
