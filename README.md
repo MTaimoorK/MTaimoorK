@@ -4,12 +4,12 @@
   </p>
 
   <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
-    <p >
+    <p align="center" >
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
     </p>
 
 
-  <p >
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
     </a>
