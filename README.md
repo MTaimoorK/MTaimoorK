@@ -4,25 +4,36 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
 </div>
 
-# 🧑‍🔬 Data Scientist Profile
+# 🧑‍🔬 About Me
 
-name = "Muhammad Taimoor Khan"
-role = "Data Scientist | AI/ML Enthusiast"
-education = "[Your Degree] in [Your Major] from [Your University]"
-learning = ["Advanced Deep Learning", "Generative AI"]
-interests = ["Data Science", "AI/ML Research", "Open-source"]
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>👨‍💻 Name</strong></td>
+      <td>Muhammad Taimoor Khan</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🚀 Role</strong></td>
+      <td>Data Scientist | AI/ML Enthusiast</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Education</strong></td>
+      <td>[Your Degree] in [Your Major] from [Your University]</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📚 Learning</strong></td>
+      <td>Advanced Deep Learning, Generative AI</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💡 Interests</strong></td>
+      <td>Data Science, AI/ML Research, Open-source</td>
+    </tr>
+  </table>
+</div>
 
-# 👋 Greeting Function
-def say_hi():
-    print(f"👋 Hi, I'm {name}!")
-    print(f"🚀 I'm a {role}")
-    print(f"🎓 Education: {education}")
-    print(f"📚 Currently learning: {', '.join(learning)}")
-    print(f"💡 Interests: {', '.join(interests)}")
-    print("\n✨ Thanks for dropping by! Let's collaborate and innovate with data! ✨")
-
-# 🌟 Display Profile
-say_hi()
+<div align="center">
+  <i>✨ Thanks for dropping by! Let's collaborate and innovate with data! ✨</i>
+</div>
 
 ## 🛠️ Skills & Tools
 
