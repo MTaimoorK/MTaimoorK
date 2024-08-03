@@ -20,7 +20,6 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 
-
 ## 🛠️ Skills & Tools
 
 <div align="center">
