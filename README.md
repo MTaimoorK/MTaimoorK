@@ -64,7 +64,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=0A66C2&color=0077B5&animation=pulse)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white&logoWidth=30&labelColor=1DA1F2&color=14171A&animation=twinkling)](https://twitter.com/YourTwitterHandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=black&logoWidth=30&labelColor=1DA1F2&color=14171A&animation=twinkling)](https://twitter.com/YourTwitterHandle)
 [![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white&logoWidth=30&labelColor=00AB6C&color=292929&animation=bounce)](https://medium.com/@yourprofile)
 
 </div>
