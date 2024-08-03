@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td align="center"><strong>🎓 Knowledge Forge</strong></td>
-      <td>[Your Degree] in [Your Major] from [Your University]</td>
+      <td>Bachelor's in Computer Science from Mehran UET</td>
     </tr>
     <tr>
       <td align="center"><strong>📚 Current Quest</strong></td>
