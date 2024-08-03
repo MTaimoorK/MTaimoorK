@@ -121,12 +121,8 @@
 
 
 <div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| Programming Languages | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/windows/48/000000/r-project.png" alt="R" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/julia.png" alt="Julia" width="40" height="40"/> |
-| Data Science & Machine Learning | <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/> |
-| Tools & Platforms | <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> |
-| Visualization | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> |
-
+  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadtaimoorkhan07/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/taaiimooor)
+[![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://stackoverflow.com/users/23324858/muhammad-taimoor)
 </div>
