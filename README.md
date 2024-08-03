@@ -1,126 +1,91 @@
-<h1 >👨‍💻 Muhammad Hunain</h1>
-  <p align="center">
-    <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="250" style="object-fit: cover;" />
-  </p>
-
-  <h3 >PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
-    <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
-    </p>
-
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-    </a>
-  </p>
-
-  <h3 >🚀 About Me</h3>
-
-  <table align="center">
-    <tr>
-      <td><strong>🔭 Currently working on</strong></td>
-      <td>Mobile and Web Development</td>
-    </tr>
-    <tr>
-      <td><strong>🌱 Learning</strong></td>
-      <td>ReactJS, Advanced State Management</td>
-    </tr>
-    <tr>
-      <td><strong>👯 Looking to collaborate on</strong></td>
-      <td>Mobile and Web Development Projects</td>
-    </tr>
-    <tr>
-      <td><strong>🤝 Seeking help to</strong></td>
-      <td>Learn more about new technologies</td>
-    </tr>
-    <tr>
-      <td><strong>💬 Ask me about</strong></td>
-      <td>Backend-related queries, MERN stack</td>
-    </tr>
-    <tr>
-      <td><strong>📫 Reach me at</strong></td>
-      <td>hunain29.mem@gmail.com</td>
-    </tr>
-    <tr>
-      <td><strong>⚡ Fun fact</strong></td>
-      <td>I'm a Dreamer and Chess Enthusiast</td>
-    </tr>
-  </table>
-
-  <h3 >🌐 Connect with me</h3>
-  <p align="center">
-    <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="Twitter" /></a>
-    <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin--v1.png" alt="LinkedIn" /></a>
-    <a href="https://www.facebook.com/HunainIsmail.Memons" target="_blank"><img src="https://img.icons8.com/color/64/000000/facebook-new.png" alt="Facebook" /></a>
-    <a href="https://www.hackerrank.com/hunain29_mem" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" /></a>
-    <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="Stack Overflow" /></a>
-  </p>
-
-  <h3 >🛠 Languages and Tools</h3>
-  <p align="center">
-    <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" />
-    <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" />
-    <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" />
-    <img src="https://img.icons8.com/color/64/000000/vite.png" alt="Vite" />
-    <img src="https://img.icons8.com/color/64/000000/express.png" alt="Express.js" />
-    <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" />
-    <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" />
-    <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript" />
-    <img src="https://img.icons8.com/color/64/000000/tailwindcss.png" alt="Tailwind CSS" />
-    <img src="https://img.icons8.com/color/64/000000/chakra-ui.png" alt="Chakra UI" />
-    <img src="https://img.icons8.com/color/64/000000/bootstrap.png" alt="Bootstrap" />
-    <img src="https://img.icons8.com/color/64/000000/wordpress.png" alt="WordPress" />
-  </p>
-
-  <h3 >📊 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hunain&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hunain&theme=radical&show_icons=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Hunain&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
-  </p>
-
-  <h3 >🖥 IDEs I'm Familiar With</h3>
-  <p align="center">
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  </p>
-
-  <h3 >🌟 Let's Connect and Create Magic Together! 🚀</h3>
-  <p align="center">
-    <i>Ready to embark on an exciting coding adventure? Let's chat about tech and build something extraordinary! ✨</i>
-  </p>
-
-  <table align="center">
-    <tr>
-      <td>🔭 Currently crafting</td>
-      <td>Next-level React and Node.js masterpieces</td>
-    </tr>
-    <tr>
-      <td>🌱 Exploring</td>
-      <td>Cutting-edge state management sorcery and serverless realms</td>
-    </tr>
-    <tr>
-      <td>👯 Seeking fellow code adventurers for</td>
-      <td>Epic MERN stack quests in the open-source universe</td>
-    </tr>
-    <tr>
-      <td>💬 Unlock my knowledge vault on</td>
-      <td>JavaScript, React, Node.js, or any web development enigma!</td>
-    </tr>
-    <tr>
-      <td>⚡ Fun fact</td>
-      <td>When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest</td>
-    </tr>
-  </table>
-  <p alig>
-    <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
-  </p>
+<div>
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="vertical-align: middle;">
+    Greetings, I'm <i> Muhammad Taimoor Khan</i>
+  </h1>
+</div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=24&duration=1500&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!;DATA+SCIENTIST;AI%2FML+ENTHUSIAST;PYTHON+DEVELOPER;DATA+ANALYST;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+PRACTITIONER;TURNING+DATA+INTO+INSIGHTS;PASSIONATE+ABOUT+AI;ALWAYS+LEARNING;LET'S+COLLABORATE!" alt="Typing SVG" />
+</div>
+
+# 🧑‍🔬 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>👨‍💻 Data Wizard</strong></td>
+      <td>Muhammad Taimoor Khan</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🚀 Mission</strong></td>
+      <td>Transforming Data into Actionable Insights</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Knowledge Forge</strong></td>
+      <td>Bachelor's in Computer Science from Mehran UET</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📚 Current Quest</strong></td>
+      <td>Unraveling the Mysteries of Advanced Deep Learning and Generative AI</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💡 Passion Fuel</strong></td>
+      <td>Pushing the Boundaries of AI/ML, Crafting Data-Driven Solutions, Contributing to the Open-Source Galaxy</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <i>🌟 Greetings, fellow data explorer! Ready to embark on a journey of innovation and discovery? Let's craft the future with data! 🌟</i>
+</div>
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+| <span style="font-family: 'Brush Script MT', cursive;">Category</span> | Technologies |
+|----------|--------------|
+| <span style="font-family: 'Brush Script MT', cursive;">**Programming Languages**</span> | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Data Science & Machine Learning**</span> | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Tools & Platforms**</span> | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| <span style="font-family: 'Brush Script MT', cursive;">**Visualization**</span> | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MTaimoorK&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadtaimoorkhan07/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/taaiimooor)
+[![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://stackoverflow.com/users/23324858/muhammad-taimoor)
+</div>
+
+## 🎯 My Goals
+
+- 🌟 <span class="animated-text">Contribute to open-source AI/ML projects</span>
+- 🤝 <span class="animated-text">Collaborate on impactful data science projects</span>
+- 📚 <span class="animated-text">Continuously learn and apply new AI techniques</span>
+
+## 💡 Fun Facts
+
+- 🧩 I enjoy solving complex problems with data
+- 🎬 Big fan of sci-fi movies and books
+- 🔬 Love experimenting with new technologies
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=for-the-badge&color=00bfff&label=Profile+Views&logo=eye" alt="Profile views" />
 </div>
