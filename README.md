@@ -66,6 +66,7 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadtaimoorkhan07/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/taaiimooor)
 [![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://stackoverflow.com/users/23324858/muhammad-taimoor)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/taimoor_ak223)
 </div>
 
 ## 🎯 My Goals
