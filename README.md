@@ -63,7 +63,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=0A66C2&color=0077B5&animation=pulse)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=0A66C2&color=0077B5&animation=pulse)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadtaimoorkhan07/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white&logoWidth=30&labelColor=1DA1F2&color=14171A&animation=twinkling)](https://x.com/taaiimooor)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&logoWidth=30&labelColor=FE7A16&color=F58025&animation=bounce)](https://stackoverflow.com/users/23324858/muhammad-taimoor)
 </div>
