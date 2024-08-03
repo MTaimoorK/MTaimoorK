@@ -74,8 +74,6 @@
 - 🤝 <span class="animated-text">Collaborate on impactful data science projects</span>
 - 📚 <span class="animated-text">Continuously learn and apply new AI techniques</span>
 
-</style>
-
 ## 💡 Fun Facts
 
 - 🧩 I enjoy solving complex problems with data
@@ -90,8 +88,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MTaimoorK&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
-<div align="center">
-<i>"Data is a precious thing and will last longer than the systems themselves."</i> – Tim Berners-Lee
 </div>
