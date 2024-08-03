@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=24&duration=1500&pause=100&color=39FF14¢er=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!;DATA+SCIENTIST;AI%2FML+ENTHUSIAST;PYTHON+DEVELOPER;DATA+ANALYST;MACHINE+LEARNING+ENGINEER;DEEP+LEARNING+PRACTITIONER;TURNING+DATA+INTO+INSIGHTS;PASSIONATE+ABOUT+AI;ALWAYS+LEARNING;LET'S+COLLABORATE!" alt="Typing SVG" />
 </div>
 
-# 🧑‍🔬 About Me
+# <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/emoji/scientist.gif" width="25" height="25" alt="scientist emoji" /> About Me
 
 <div align="center">
   <table>
