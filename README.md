@@ -9,30 +9,30 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>👨‍💻 Name</strong></td>
+      <td align="center"><strong>👨‍💻 Data Wizard</strong></td>
       <td>Muhammad Taimoor Khan</td>
     </tr>
     <tr>
-      <td align="center"><strong>🚀 Role</strong></td>
-      <td>Data Scientist | AI/ML Enthusiast</td>
+      <td align="center"><strong>🚀 Mission</strong></td>
+      <td>Transforming Data into Actionable Insights</td>
     </tr>
     <tr>
-      <td align="center"><strong>🎓 Education</strong></td>
+      <td align="center"><strong>🎓 Knowledge Forge</strong></td>
       <td>[Your Degree] in [Your Major] from [Your University]</td>
     </tr>
     <tr>
-      <td align="center"><strong>📚 Learning</strong></td>
-      <td>Advanced Deep Learning, Generative AI</td>
+      <td align="center"><strong>📚 Current Quest</strong></td>
+      <td>Unraveling the Mysteries of Advanced Deep Learning and Generative AI</td>
     </tr>
     <tr>
-      <td align="center"><strong>💡 Interests</strong></td>
-      <td>Data Science, AI/ML Research, Open-source</td>
+      <td align="center"><strong>💡 Passion Fuel</strong></td>
+      <td>Pushing the Boundaries of AI/ML, Crafting Data-Driven Solutions, Contributing to the Open-Source Galaxy</td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <i>✨ Thanks for dropping by! Let's collaborate and innovate with data! ✨</i>
+  <i>🌟 Greetings, fellow data explorer! Ready to embark on a journey of innovation and discovery? Let's craft the future with data! 🌟</i>
 </div>
 
 ## 🛠️ Skills & Tools
