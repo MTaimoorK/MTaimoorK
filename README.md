@@ -21,11 +21,24 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 
 ### Data Science & Machine Learning:
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization
+  <img src="https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy&logoColor=white&size=24" height="24">
 - **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
+  <img src="https://img.shields.io/badge/-Scikit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=white&size=24" height="24">
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
+  <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white&size=24" height="24">
 - **Big Data Technologies:** Apache Spark, Hadoop
+  <img src="https://img.shields.io/badge/-Apache_Spark-000?style=flat-square&logo=apache-spark&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-Hadoop-000?style=flat-square&logo=hadoop&logoColor=white&size=24" height="24">
 - **Tools & Platforms:** Jupyter Notebook, Google Colab, AWS, Azure, GCP, Docker, Git
-- **Deep Learning Frameworks:** TensorFlow, PyTorch
+  <img src="https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-Google_Colab-000?style=flat-square&logo=googlecolab&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-Azure-000?style=flat-square&logo=microsoftazure&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-GCP-000?style=flat-square&logo=googlecloud&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white&size=24" height="24">
+  <img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white&size=24" height="24">
 
 ### Visualization:
 <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib&logoColor=white&size=24" height="24">
@@ -42,7 +55,7 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 
 ## 🌐 Connect with Me
 
-[<img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&size=24" height="24">](https://www.linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&size=24" height="24">](https://www.linkedin.com/in/muhammadtaimoorkhan07/)
 [<img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=white&size=24" height="24">](https://twitter.com/YourTwitterHandle)
 [<img src="https://img.shields.io/badge/-Medium-000?style=flat-square&logo=medium&logoColor=white&size=24" height="24">](https://medium.com/@yourprofile)
 
