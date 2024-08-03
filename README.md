@@ -20,18 +20,18 @@ Welcome to my GitHub profile! I am passionate about leveraging data to drive ins
 <img src="https://img.shields.io/badge/-Julia-000?style=flat-square&logo=julia&logoColor=white&size=24" height="24">
 
 ### Data Science & Machine Learning:
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization
+- **Data Analysis:**
   <img src="https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=white&size=24" height="24">
   <img src="https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy&logoColor=white&size=24" height="24">
-- **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction
+- **Machine Learning:**
   <img src="https://img.shields.io/badge/-Scikit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=white&size=24" height="24">
-- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
+- **Deep Learning:**
   <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=white&size=24" height="24">
   <img src="https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white&size=24" height="24">
-- **Big Data Technologies:** Apache Spark, Hadoop
+- **Big Data Technologies:**
   <img src="https://img.shields.io/badge/-Apache_Spark-000?style=flat-square&logo=apache-spark&logoColor=white&size=24" height="24">
   <img src="https://img.shields.io/badge/-Hadoop-000?style=flat-square&logo=hadoop&logoColor=white&size=24" height="24">
-- **Tools & Platforms:** Jupyter Notebook, Google Colab, AWS, Azure, GCP, Docker, Git
+- **Tools & Platforms:**
   <img src="https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&logoColor=white&size=24" height="24">
   <img src="https://img.shields.io/badge/-Google_Colab-000?style=flat-square&logo=googlecolab&logoColor=white&size=24" height="24">
   <img src="https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=white&size=24" height="24">
