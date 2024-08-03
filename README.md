@@ -6,17 +6,16 @@
 
 ## 🚀 About Me
 
-
 class DataScientist:
-  def __init__(self):
-      self.name = "Muhammad Taimoor Khan"
-      self.role = "Data Scientist | AI/ML Enthusiast"
-      self.education = "[Your Degree] in [Your Major] from [Your University]"
-      self.learning = ["Advanced Deep Learning", "Generative AI"]
-      self.interests = ["Data Science", "AI/ML Research", "Open-source"]
+    def __init__(self):
+        self.name = "Muhammad Taimoor Khan"
+        self.role = "Data Scientist | AI/ML Enthusiast"
+        self.education = "[Your Degree] in [Your Major] from [Your University]"
+        self.learning = ["Advanced Deep Learning", "Generative AI"]
+        self.interests = ["Data Science", "AI/ML Research", "Open-source"]
     
-  def say_hi(self):
-      print("Thanks for dropping by! Let's collaborate and innovate with data!")
+    def say_hi(self):
+        print("Thanks for dropping by! Let's collaborate and innovate with data!")
 
 me = DataScientist()
 me.say_hi()
